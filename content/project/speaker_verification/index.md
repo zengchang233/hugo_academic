@@ -2,6 +2,7 @@
 title: Speaker Recognition / Antispoofing
 summary: Speaker recognition and antispoofing project.
 tags:
+  - ASV
   - Deep Learning
 date: '2020-10-01T00:00:00Z'
 
@@ -13,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: researchgate
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Visit
+    url: https://www.researchgate.net/project/JST-ANR-VoicePersonae-project
 url_code: ''
 url_pdf: ''
 url_slides: ''

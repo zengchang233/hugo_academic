@@ -7,9 +7,9 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 30
 
-title: Featured Publications
+title: Highlight Publications
 subtitle: ''
 
 content:
@@ -20,7 +20,7 @@ content:
   # Filter on criteria
   filters:
     featured_only: true
-    author: ''
+    author: 'Chang Zeng'
     category: ''
     publication_type: ''
     tag: ''

@@ -2,6 +2,7 @@
 title: Singing Voice Synthesis
 summary: Neural singing voice synthesis.
 tags:
+  - NSS
   - Deep Learning
 date: '2022-07-01T00:00:00Z'
 
@@ -13,10 +14,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - icon: music
+    icon_pack: fas
+    name: Visit
+    url: https://wavelandspeech.github.io/
 url_code: ''
 url_pdf: ''
 url_slides: ''

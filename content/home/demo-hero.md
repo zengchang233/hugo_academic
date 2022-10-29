@@ -18,6 +18,8 @@ design:
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
     text_color_light: true
+
+active: false
 # advanced:
 #   css_class: fullscreen
 ---
