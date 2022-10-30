@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Informatics
       institution: National Institute of Informatics & SOKENDAI
-      year: 2023 (expected)
+      year: ''
     - course: MEng in Electrical Engineer and Information Systems (EEIS)
       institution: The University of Tokyo
       year: 2020
