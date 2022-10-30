@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chang ZENG 曾畅　曾 暢 (ソウ　チョウ)
+title: Chang ZENG 曾畅　曾 暢 (ソウ チョウ)
 
 # Full name (for SEO)
 first_name: Chang
@@ -49,15 +49,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:zengchang.elec@gmail.com'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: false
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/zzzzzc12
+    label: Follow me on Twitter
+    display:
+      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=gfGyn49j-MkC&hl
+  - icon: researchgate
+    icon_pack: fab
+    link: 'https://www.researchgate.net/profile/Chang-Zeng-3'
   - icon: github
     icon_pack: fab
     link: https://github.com/zengchang233
