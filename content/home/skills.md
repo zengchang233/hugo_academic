@@ -31,7 +31,7 @@ feature:
   - description: 80%
     icon: music
     icon_pack: fas
-    name: Neural Speech/Music Synthesis
+    name: Neural Speech/Singing Synthesis
   - description: 60%
     icon: microphone
     icon_pack: fas
