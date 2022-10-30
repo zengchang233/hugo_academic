@@ -30,7 +30,7 @@ publication_short: "In *DDAM 2022 Workshop*"
 abstract: The Audio Deep Synthesis Detection (ADD) Challenge has been held to detect generated human-like speech. With our submitted system, this paper provides an overall assessment of track 1 (Low-quality Fake Audio Detection) and track 2 (Partially Fake Audio Detection). In this paper, spectro-temporal artifacts were detected using raw temporal signals, spectral features, as well as deep embedding features. To address track 1, low-quality data augmentation, domain adaptation via finetuning, and various complementary feature information fusion were aggregated in our system. Furthermore, we analyzed the clustering characteristics of subsystems with different features by visualization method and explained the effectiveness of our proposed greedy fusion strategy. As for track 2, frame transition and smoothing were detected using self-supervised learning structure to capture the manipulation of PF attacks in the time domain. We ranked 4th and 5th in track 1 and track 2, respectively.
 
 # Summary. An optional shortened abstract.
-summary: Singing voice synthesis, feed-forward transformer, generative adversarial network.
+summary: Audio Deep Synthesis Detection, Spectro-temporal, Domain Adaptation, Self-Supervised Learning, Frame transition, Greedy Fusion.
 
 tags:
 - Speaker Recognition / Antispoofing
@@ -39,7 +39,7 @@ featured: false
 links:
 - name: ACMMM page
   url: https://dl.acm.org/doi/abs/10.1145/3552466.3556527
-url_pdf: https://arxiv.org/pdf/2210.14666.pdf
+url_pdf: https://arxiv.org/pdf/2210.05254.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -9,7 +9,7 @@ authors:
   - Sheng Li
   - Xugang Lu
   - Masato Akagi
-  -  Meng Liu
+  - Meng Liu
   - Lin Zhang
   - Chang Zeng
   - Longbiao Wang
