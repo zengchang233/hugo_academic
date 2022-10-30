@@ -5,15 +5,15 @@ title: 'Data Augmentation Using McAdams-Coefficient-Based Speaker Anonymization 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Kai Li, 
-  - Sheng Li, 
-  - Xugang Lu, 
-  - Masato Akagi,
-  -  Meng Liu, 
-  - Lin Zhang, 
-  - Chang Zeng, 
-  - Longbiao Wang, 
-  - Jianwu Dang, 
+  - Kai Li
+  - Sheng Li
+  - Xugang Lu
+  - Masato Akagi
+  -  Meng Liu
+  - Lin Zhang
+  - Chang Zeng
+  - Longbiao Wang
+  - Jianwu Dang
   - Masashi Unoki
 
 # Author notes (optional)

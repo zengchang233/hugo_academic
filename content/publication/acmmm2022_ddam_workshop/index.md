@@ -1,15 +1,15 @@
 ---
 title: "Deep Spectro-temporal Artifacts for Detecting Synthesized Speech"
 authors:
-  - Xiaohui Liu, 
-  - Meng Liu, 
-  - Lin Zhang, 
-  - Linjuan Zhang, 
-  - Chang Zeng, 
-  - Kai Li, 
-  - Nan Li, 
-  - Kong Aik Lee, 
-  - Longbiao Wang, 
+  - Xiaohui Liu
+  - Meng Liu
+  - Lin Zhang
+  - Linjuan Zhang
+  - Chang Zeng
+  - Kai Li
+  - Nan Li
+  - Kong Aik Lee
+  - Longbiao Wang
   - Jianwu Dang
 date: "2022-10-10T00:00:00Z"
 doi: "10.1145/3552466.3556527"
