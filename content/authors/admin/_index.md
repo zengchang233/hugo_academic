@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chang ZENG 曾畅 曾 暢 (ソウ　チョウ)
+title: Chang ZENG 曾畅　曾 暢 (ソウ　チョウ)
 
 # Full name (for SEO)
 first_name: Chang

@@ -24,8 +24,8 @@ publishDate: "2022-10-10T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "DDAM 2022: Proceedings of the 1st International Workshop on Deepfake Detection for Audio Multimedia"
-publication_short: "DDAM 2022 Workshop"
+publication: "In *DDAM 2022: Proceedings of the 1st International Workshop on Deepfake Detection for Audio Multimedia*"
+publication_short: "In *DDAM 2022 Workshop*"
 
 abstract: The Audio Deep Synthesis Detection (ADD) Challenge has been held to detect generated human-like speech. With our submitted system, this paper provides an overall assessment of track 1 (Low-quality Fake Audio Detection) and track 2 (Partially Fake Audio Detection). In this paper, spectro-temporal artifacts were detected using raw temporal signals, spectral features, as well as deep embedding features. To address track 1, low-quality data augmentation, domain adaptation via finetuning, and various complementary feature information fusion were aggregated in our system. Furthermore, we analyzed the clustering characteristics of subsystems with different features by visualization method and explained the effectiveness of our proposed greedy fusion strategy. As for track 2, frame transition and smoothing were detected using self-supervised learning structure to capture the manipulation of PF attacks in the time domain. We ranked 4th and 5th in track 1 and track 2, respectively.
 

@@ -4,6 +4,7 @@ summary: Neural singing voice synthesis.
 tags:
   - NSS
   - Deep Learning
+  - Avatar
 date: '2022-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

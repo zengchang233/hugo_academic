@@ -22,10 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Avatar Researcher (intern)
+    company: Bombax XiaoIce Technology Co., Ltd
+    company_url: 'https://www.xiaoice.com/'
+    company_logo: xiaoice
+    location: Remote
+    date_start: '2022-07-15'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Speech signal processing
+        * Speech recognition
+        * Antispoofing
+
+  - title: Research Assistant
+    company: National Insitute of Informatics
+    company_url: 'https://www.nii.ac.jp/en/'
+    company_logo: nii
+    location: Tokyo
+    date_start: '2021-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Speech signal processing
+        * Speech synthesis
+        * Singing voice synthesis
+
   - title: Speech Researcher
     company: Alibaba
-    company_url: 'https://www.alibaba.com/?src=sem_ggl&from=sem_ggl&cmpgn=9922923046&adgrp=97780319742&fditm=&tgt=kwd-418492334064&locintrst=&locphyscl=1009317&mtchtyp=e&ntwrk=g&device=c&dvcmdl=&creative=432272608459&plcmnt=&plcmntcat=&p1=&p2=&aceid=&position=&localKeyword=alibaba%20en&field=UG&gclid=Cj0KCQjwnvOaBhDTARIsAJf8eVPSjTXPoXJflTNIt4m9haZ-TqVaj4zooZgSRim5KIK4X7eY2Dm72gkaAmGiEALw_wcB'
-    company_logo: taobao
+    company_url: 'https://www.alibaba.com/'
+    company_logo: ali
     location: Hangzhou
     date_start: '2020-04-21'
     date_end: '2020-11-21'
@@ -38,14 +66,27 @@ experience:
         * Self-supervised learning
         * Spoken term detection
 
-  - title: Speech Engineer (intern)
-    company: HIKVISION
-    company_url: 'https://www.hikvision.com/en/'
-    company_logo: hikvision
-    location: Hangzhou
-    date_start: '2018-10-01'
-    date_end: '2018-11-01'
-    description: Speaker recognition.
+  - title: Speech Researcher (intern)
+    company: Alibaba
+    company_url: 'https://www.alibaba.com/'
+    company_logo: taobao
+    location: Beijing
+    date_start: '2019-07-21'
+    date_end: '2019-10-15'
+    description: |2-
+        Responsibilities include:
+        
+        * Speech signal processing
+        * Speaker recognition
+
+  # - title: Speech Engineer (intern)
+  #   company: HIKVISION
+  #   company_url: 'https://www.hikvision.com/en/'
+  #   company_logo: hikvision
+  #   location: Hangzhou
+  #   date_start: '2018-10-01'
+  #   date_end: '2018-11-01'
+  #   description: Speaker recognition.
 
     # - title: Speech Engineer (intern)
     # company: University X
