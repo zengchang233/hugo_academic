@@ -29,7 +29,7 @@ abstract: Audio-visual lip biometrics (AV-LB) has been an emerging biometrics te
 summary: speaker recognition, audio-visual, lip biometrics, deep learning, visual speech.
 
 tags:
-- Source Themes
+- Speaker Recognition / Antispoofing
 featured: false
 
 links:
@@ -67,8 +67,8 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

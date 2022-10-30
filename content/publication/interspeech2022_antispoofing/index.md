@@ -42,7 +42,7 @@ abstract: Fake audio detection (FAD) is a technique to distinguish synthetic spe
 # Summary. An optional shortened abstract.
 summary: fake audio detection, data augmentation, McAdams coefficients, speaker anonymization.
 
-tags: []
+tags: Speaker Recognition / Antispoofing
 
 # Display this page in the Featured widget?
 featured: false
@@ -84,9 +84,9 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.

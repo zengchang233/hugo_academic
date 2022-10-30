@@ -33,7 +33,7 @@ abstract: The Audio Deep Synthesis Detection (ADD) Challenge has been held to de
 summary: Singing voice synthesis, feed-forward transformer, generative adversarial network.
 
 tags:
-- Source Themes
+- Speaker Recognition / Antispoofing
 featured: false
 
 links:
@@ -71,8 +71,8 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

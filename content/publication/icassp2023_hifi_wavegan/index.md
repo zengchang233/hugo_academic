@@ -29,7 +29,7 @@ abstract: Entertainment-oriented singing voice synthesis (SVS) requires a vocode
 summary: Generative adversarial network, vocoder, highfidelity, singing voice generation.
 
 tags:
-- Source Themes
+- Singing Voice Synthesis
 featured: false
 
 links:
@@ -67,8 +67,8 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

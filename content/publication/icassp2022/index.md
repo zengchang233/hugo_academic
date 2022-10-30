@@ -37,7 +37,7 @@ abstract: Probabilistic linear discriminant analysis (PLDA) or cosine similarity
 # Summary. An optional shortened abstract.
 summary: Probabilistic linear discriminant analysis (PLDA) or cosine similarity has been widely used in traditional speaker verification systems as a back-end technique to measure pairwise similarities. To make better use of multiple enrollment utterances, we propose a novel attention back-end model that is applied to the utterance-level features. Specifically, we use scaled-dot self-attention and feed-forward self-attention networks as architectures that learn the intra-relationships of enrollment utterances.
 
-tags: []
+tags: Speaker Recognition / Antispoofing
 
 # Display this page in the Featured widget?
 featured: true
@@ -79,9 +79,9 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.

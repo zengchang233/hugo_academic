@@ -36,7 +36,7 @@ abstract: Current state-of-the-art automatic speaker verification (ASV) systems 
 # Summary. An optional shortened abstract.
 summary: Current state-of-the-art automatic speaker verification (ASV) systems are vulnerable to presentation attacks, and several countermeasures (CMs), which distinguish bona fide trials from spoofing ones, have been explored to protect ASV. However, ASV systems and CMs are generally developed and optimized independently without considering their inter-relationship. In this paper, we propose a new spoofing-aware ASV back-end module that efficiently computes a combined ASV score based on speaker similarity and CM score.
 
-tags: []
+tags: Speaker Recognition / Antispoofing
 
 # Display this page in the Featured widget?
 featured: true
@@ -78,9 +78,9 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
