@@ -33,8 +33,7 @@ experience:
         Responsibilities include:
         
         * Speech signal processing
-        * Speech recognition
-        * Antispoofing
+        * Singing voice synthesis
 
   - title: Research Assistant
     company: National Insitute of Informatics
