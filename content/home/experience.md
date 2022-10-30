@@ -47,8 +47,8 @@ experience:
         Responsibilities include:
         
         * Speech signal processing
-        * Speech synthesis
-        * Singing voice synthesis
+        * Speaker recognition
+        * Antispoofing
 
   - title: Speech Researcher
     company: Alibaba
