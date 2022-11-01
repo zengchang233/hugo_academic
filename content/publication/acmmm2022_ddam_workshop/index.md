@@ -37,7 +37,7 @@ tags:
 featured: false
 
 links:
-- name: ACMMM page
+- name: ACMMM Link
   url: https://dl.acm.org/doi/abs/10.1145/3552466.3556527
 url_pdf: https://arxiv.org/pdf/2210.05254.pdf
 url_code: ''

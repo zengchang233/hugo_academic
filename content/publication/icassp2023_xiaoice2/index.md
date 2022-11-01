@@ -8,7 +8,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: "2022-10-26T00:00:00Z"
-doi: ""
+doi: "10.48550/arXiv.2210.14666"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-26T00:00:00Z"
@@ -33,7 +33,7 @@ tags:
 featured: false
 
 links:
-- name: Project page
+- name: Audio Samples
   url: https://wavelandspeech.github.io/xiaoice2
 url_pdf: https://arxiv.org/pdf/2210.14666.pdf
 url_code: ''

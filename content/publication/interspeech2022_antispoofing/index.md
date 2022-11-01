@@ -48,9 +48,9 @@ tags: Speaker Recognition / Antispoofing
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: INTERSPEECH Link
+  url: https://www.isca-speech.org/archive/interspeech_2022/li22o_interspeech.html
 
 url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2022/li22o_interspeech.pdf'
 url_code: ''

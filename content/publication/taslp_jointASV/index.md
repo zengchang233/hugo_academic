@@ -32,7 +32,7 @@ tags:
 featured: false
 
 links:
-- name: ArXiv
+- name: ArXiv Link
   url: https://arxiv.org/abs/2209.00485
 url_pdf: https://arxiv.org/pdf/2209.00485.pdf
 url_code: ''

@@ -33,7 +33,7 @@ tags:
 featured: false
 
 links:
-- name: IEEE page
+- name: ASRU Link
   url: https://ieeexplore.ieee.org/document/9688240
 url_pdf: ''
 url_code: ''

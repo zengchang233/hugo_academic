@@ -43,9 +43,9 @@ tags: Speaker Recognition / Antispoofing
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: ICASSP Link
+  url: https://ieeexplore.ieee.org/document/9746688
 
 url_pdf: 'https://arxiv.org/pdf/2104.01541.pdf'
 url_code: 'https://github.com/nii-yamagishilab/Attention_Backend_for_ASV'
