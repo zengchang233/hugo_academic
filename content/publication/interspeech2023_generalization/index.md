@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-05-18'
+date: '2023-08-20'
 # doi: '10.21437/Interspeech.2022-10495'
 
 # Schedule page publish date (NOT publication's date).
