@@ -39,7 +39,7 @@ summary: Current state-of-the-art automatic speaker verification (ASV) systems a
 tags: Speaker Recognition / Antispoofing
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
