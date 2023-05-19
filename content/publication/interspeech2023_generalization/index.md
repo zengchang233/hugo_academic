@@ -47,7 +47,7 @@ links:
 - name: ArXiv Link
   url: https://arxiv.org/abs/2305.10940
 
-url_pdf: 'https://arxiv.org/pdf/2209.00423.pdf'
+url_pdf: 'https://arxiv.org/pdf/2305.10940.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
