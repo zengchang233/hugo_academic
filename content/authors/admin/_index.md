@@ -73,7 +73,7 @@ social:
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/zengchang_speechai_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zengchang.elec@gmail.com'
