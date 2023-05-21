@@ -48,7 +48,7 @@ links:
   url: https://arxiv.org/abs/2305.10940
 
 url_pdf: 'https://arxiv.org/pdf/2305.10940.pdf'
-url_code: ''
+url_code: 'https://github.com/nii-yamagishilab/Generalization_of_CMs_regularizations'
 url_dataset: ''
 url_poster: ''
 url_project: ''
