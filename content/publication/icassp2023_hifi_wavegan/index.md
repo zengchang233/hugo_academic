@@ -33,13 +33,13 @@ tags:
 featured: false
 
 links:
-- name: Audio Samples
-  url: https://wavelandspeech.github.io/hifi-wavegan/
+- name: ArXiv Link
+  url: https://arxiv.org/abs/2210.12740
 url_pdf: https://arxiv.org/pdf/2210.12740.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://wavelandspeech.github.io/hifi-wavegan/
 url_slides: ''
 url_source: ''
 url_video: ''
