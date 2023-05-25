@@ -33,13 +33,13 @@ tags:
 featured: true
 
 links:
-- name: Audio Samples
-  url: https://wavelandspeech.github.io/xiaoice2
+- name: ArXiv Link
+  url: https://arxiv.org/abs/2210.14666
 url_pdf: https://arxiv.org/pdf/2210.14666.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: https://wavelandspeech.github.io/xiaoice2
 url_slides: ''
 url_source: ''
 url_video: ''
