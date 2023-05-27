@@ -29,7 +29,7 @@ summary: neural network, automatic speaker verification, deep learning, attentio
 
 tags:
 - Speaker Recognition / Antispoofing
-featured: true
+featured: false
 
 links:
 - name: ArXiv Link
