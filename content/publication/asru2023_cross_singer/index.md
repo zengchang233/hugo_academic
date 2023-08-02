@@ -9,7 +9,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: "2023-12-16T00:00:00Z"
-doi: "10.48550/arXiv.2210.12740"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-07-17T00:00:00Z"
@@ -34,9 +34,9 @@ tags:
 featured: false
 
 links:
-- name: ArXiv Link
-  url: https://arxiv.org/abs/2210.12740
-url_pdf: https://arxiv.org/pdf/2210.12740.pdf
+- name: ''
+  url: ''
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
