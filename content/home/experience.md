@@ -28,12 +28,13 @@ experience:
     company_logo: xiaoice
     location: Remote
     date_start: '2022-07-15'
-    date_end: ''
+    date_end: '2023-07-31'
     description: |2-
         Responsibilities include:
         
         * Speech signal processing
         * Singing voice synthesis
+        * Speech synthesis
 
   - title: Research Assistant
     company: National Insitute of Informatics
@@ -41,7 +42,7 @@ experience:
     company_logo: nii
     location: Tokyo
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2023-08-31'
     description: |2-
         Responsibilities include:
         
