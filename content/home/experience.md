@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: RevComm (intern)
+  - title: Researcher (intern)
     company: RevComm Inc
     company_url: 'https://www.revcomm.co.jp/'
     company_logo: revcomm
@@ -35,7 +35,7 @@ experience:
         * Speech signal processing
         * Speaker recognition
         * Speech synthesis
-        
+
   - title: Avatar Researcher (intern)
     company: Bombax XiaoIce Technology Co., Ltd
     company_url: 'https://www.xiaoice.com/'
