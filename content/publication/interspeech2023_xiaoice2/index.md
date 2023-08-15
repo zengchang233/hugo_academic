@@ -33,7 +33,7 @@ tags:
 featured: true
 
 links:
-- name: ArXiv Link
+- name: Interspeech2023
   url: https://www.isca-speech.org/archive/interspeech_2023/chunhui23_interspeech.html
 url_pdf: https://www.isca-speech.org/archive/pdfs/interspeech_2023/chunhui23_interspeech.pdf
 url_code: 'https://github.com/zengchang233/xiaoicesing2'
