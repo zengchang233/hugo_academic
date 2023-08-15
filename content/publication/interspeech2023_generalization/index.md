@@ -11,16 +11,11 @@ authors:
   - Erica Cooper
   - Junichi Yamagishi
 
-# Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
-
-date: '2023-08-20'
-# doi: '10.21437/Interspeech.2022-10495'
+date: '2023-08-15'
+doi: '10.21437/Interspeech.2023-125'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-09-18T00:00:00Z'
+publishDate: '2023-06-18T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -44,10 +39,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: ArXiv Link
-  url: https://arxiv.org/abs/2305.10940
+- name: Interspeech2023
+  url: https://www.isca-speech.org/archive/interspeech_2023/zeng23_interspeech.html
 
-url_pdf: 'https://arxiv.org/pdf/2305.10940.pdf'
+url_pdf: 'https://www.isca-speech.org/archive/pdfs/interspeech_2023/zeng23_interspeech.pdf'
 url_code: 'https://github.com/nii-yamagishilab/Generalization_of_CMs_regularizations'
 url_dataset: ''
 url_poster: ''
