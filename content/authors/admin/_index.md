@@ -82,6 +82,7 @@ email: 'zengchang.elec@gmail.com'
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in Yamagishi Lab, NII & SOKENDAI. My research interests include speech signal processing, speaker verification, and singing voice synthesis.
+I am a Ph.D. candidate with 5 years of speech signal processing/sequence-to-sequence (S2S)/deep learning experiences. I have explored speaker recognition in universities and speech recognition in the industry. My research/work interest includes speech/speaker recognition and generative speech AI such as TTS and voice conversion. 
+<!-- I would like to dedicate myself to speech signal processing/speech AI/Machine Learning/Deep Learning field for my long-term future work. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
