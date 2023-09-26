@@ -12,17 +12,17 @@ date: "2023-12-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-07-17T00:00:00Z"
+publishDate: "2023-09-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *ArXiv*"
-publication_short: "In *ArXiv*"
+publication: "In *2023 IEEE Automatic Speech Recognition and Understanding Workshop*"
+publication_short: "In *ASRU 2023*"
 
 abstract: It is challenging to build a multi-singer high-fidelity singing voice synthesis system with cross-lingual ability by only using monolingual singers in the training stage. In this paper, we propose CrossSinger, which is a cross-lingual singing voice synthesizer based on Xiaoicesing2. Specifically, we utilize International Phonetic Alphabet to unify the representation for all languages of the training data. Moreover, we leverage conditional layer normalization to incorporate the language information into the model for better pronunciation when singers meet unseen languages. Additionally, gradient reversal layer (GRL) is utilized to remove singer biases included in lyrics since all singers are monolingual, which indicates singer's identity is implicitly associated with the text. The experiment is conducted on a combination of three singing voice datasets containing Japanese Kiritan dataset, English NUS-48E dataset, and one internal Chinese dataset. The result shows CrossSinger can synthesize high-fidelity songs for various singers with cross-lingual ability, including code-switch cases.
 
@@ -34,9 +34,9 @@ tags:
 featured: false
 
 links:
-- name: ''
-  url: ''
-url_pdf: ''
+- name: 'Arxiv Link'
+  url: 'https://arxiv.org/abs/2309.12672'
+url_pdf: 'https://arxiv.org/pdf/2309.12672.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
