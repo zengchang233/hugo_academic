@@ -31,7 +31,7 @@ summary: Generative adversarial network, Acoustic model, Cross-lingual, Multi-si
 
 tags:
 - Singing Voice Synthesis
-featured: false
+featured: true
 
 links:
 - name: 'ArXiv Link'
