@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-- name: 'Arxiv Link'
+- name: 'ArXiv Link'
   url: 'https://arxiv.org/abs/2309.12672'
 url_pdf: 'https://arxiv.org/pdf/2309.12672.pdf'
 url_code: ''
