@@ -37,7 +37,7 @@ links:
 - name: 'ArXiv Link'
   url: 'https://arxiv.org/abs/2309.12672'
 url_pdf: 'https://arxiv.org/pdf/2309.12672.pdf'
-url_code: ''
+url_code: 'https://github.com/zengchang233/crosssinger'
 url_dataset: ''
 url_poster: ''
 url_project: https://wavelandspeech.github.io/CrossSinger/
