@@ -20,7 +20,7 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 70%
+  - description: 80%
     icon: code
     icon_pack: fas
     name: C++
@@ -28,15 +28,15 @@ feature:
     icon: wave-square
     icon_pack: fal
     name: Speech Signal Processing
-  - description: 80%
+  - description: 90%
     icon: music
     icon_pack: fas
     name: Neural Speech/Singing Synthesis
-  - description: 60%
+  - description: 90%
     icon: microphone
     icon_pack: fas
     name: Speech Recognition
-  - description: 80%
+  - description: 100%
     icon: laptop
     icon_pack: fas
     name: PyTorch
