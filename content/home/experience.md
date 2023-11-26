@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Speech signal processing
-        * Speaker recognition
+        * Speech recognition
         * Speech synthesis
 
   - title: Avatar Researcher (intern)
@@ -64,7 +64,7 @@ experience:
         * Speaker recognition
         * Antispoofing
 
-  - title: Speech Researcher
+  - title: Speech Recognition Researcher
     company: Alibaba
     company_url: 'https://www.alibaba.com/'
     company_logo: ali
@@ -80,7 +80,7 @@ experience:
         * Self-supervised learning
         * Spoken term detection
 
-  - title: Speech Researcher (intern)
+  - title: Speech Recognition Researcher (intern)
     company: Alibaba
     company_url: 'https://www.alibaba.com/'
     company_logo: taobao
