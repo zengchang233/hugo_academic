@@ -27,11 +27,11 @@ feature:
   - description: 100%
     icon: wave-square
     icon_pack: fas
-    name: Speech Signal Processing
+    name: Audio Signal Processing
   - description: 90%
     icon: music
     icon_pack: fas
-    name: Generative Audio
+    name: Audio Generative AI
   - description: 90%
     icon: microphone
     icon_pack: fas
