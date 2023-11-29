@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: C++
   - description: 100%
-    icon: wave-square
+    icon: waveform
     icon_pack: fas
     name: Speech Signal Processing
   - description: 90%
