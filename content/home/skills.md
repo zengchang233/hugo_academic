@@ -26,12 +26,12 @@ feature:
     name: C++
   - description: 100%
     icon: wave-square
-    icon_pack: fal
+    icon_pack: fas
     name: Speech Signal Processing
   - description: 90%
     icon: music
     icon_pack: fas
-    name: Neural Speech/Singing Synthesis
+    name: Generative Audio
   - description: 90%
     icon: microphone
     icon_pack: fas
