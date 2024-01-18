@@ -19,8 +19,8 @@ publishDate: "2022-09-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *ArXiv*"
-publication_short: "In *ArXiv*"
+publication: "Accepted by Computer Speech & Language"
+publication_short: "In *CSL*"
 
 abstract: Conventional automatic speaker verification systems can usually be decomposed into a front-end model such as time delay neural network (TDNN) for extracting speaker embeddings and a back-end model such as statistics-based probabilistic linear discriminant analysis (PLDA) or neural network-based neural PLDA (NPLDA) for similarity scoring. However, the sequential optimization of the front-end and back-end models may lead to a local minimum, which theoretically prevents the whole system from achieving the best optimization. Although some methods have been proposed for jointly optimizing the two models, such as the generalized end-to-end (GE2E) model and NPLDA E2E model, all of these methods are designed for use with a single enrollment utterance. In this paper, we propose a new E2E joint method for speaker verification especially designed for the practical case of multiple enrollment utterances. In order to leverage the intra-relationship among multiple enrollment utterances, our model comes equipped with frame-level and utterance-level attention mechanisms. We also utilize several data augmentation techniques, including conventional noise augmentation using MUSAN and RIRs datasets and a unique speaker embedding-level mixup strategy for better optimization.
 

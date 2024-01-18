@@ -24,9 +24,9 @@ bio: My research interests include speech signal processing, speaker recognition
 interests:
   - Artificial Intelligence
   - Speech Signal Processing
-  - Speaker Recognition / Antispoofing
-  - Singing Voice Synthesis
+  - Singing Voice / Speech Synthesis
   - Speech Recognition
+  - Language Processing
 
 # Education to show in About widget
 education:
