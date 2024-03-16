@@ -29,8 +29,8 @@ content:
       tag: '*'
     - name: Speaker Recognition
       tag: ASV
-    - name: Neural Speech Synthesis
-      tag: NSS
+    - name: GenAI
+      tag: GenAI
     - name: Deep Learning
       tag: Deep Learning
     - name: Avatar

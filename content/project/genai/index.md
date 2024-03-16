@@ -2,7 +2,7 @@
 title: Generative AI
 summary: Multi-Modality GenAI.
 tags:
-  - MM GenAI
+  - GenAI
   - Deep Learning
   - Avatar
 date: '2022-07-01T00:00:00Z'
