@@ -7,7 +7,7 @@ tags:
 date: '2020-10-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://www.researchgate.net/project/JST-ANR-VoicePersonae-project'
+external_link: 'https://zengchang233.github.io/project/speaker_verification/'
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -17,7 +17,7 @@ links:
   - icon: researchgate
     icon_pack: fab
     name: Visit
-    url: https://www.researchgate.net/project/JST-ANR-VoicePersonae-project
+    url: https://zengchang233.github.io/project/speaker_verification/
 url_code: ''
 url_pdf: ''
 url_slides: ''
