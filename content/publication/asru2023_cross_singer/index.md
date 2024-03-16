@@ -31,6 +31,7 @@ summary: This paper presents CrossSinger, a cross-lingual singing voice synthesi
 
 tags:
 - Singing Voice Synthesis
+- GenAI
 featured: true
 
 links:
@@ -59,6 +60,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - svs
+- GenAI
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -32,6 +32,7 @@ summary: Generative adversarial network, Vocoder, High-fidelity, Singing voice g
 
 tags:
 - Singing Voice Synthesis
+- GenAI
 featured: false
 
 links:
@@ -60,6 +61,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - svs
+- GenAI
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

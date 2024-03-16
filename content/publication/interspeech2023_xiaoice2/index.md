@@ -30,6 +30,7 @@ summary: This paper presents XiaoiceSing2, an enhanced singing voice synthesis s
 
 tags:
 - Singing Voice Synthesis
+- GenAI
 featured: true
 
 links:
@@ -58,6 +59,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - svs
+- GenAI
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
