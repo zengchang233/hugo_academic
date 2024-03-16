@@ -35,8 +35,8 @@ tags:
 featured: true
 
 links:
-- name: 'ArXiv Link'
-  url: 'https://arxiv.org/abs/2309.12672'
+- name: 'ASRU2023 Link'
+  url: 'https://ieeexplore.ieee.org/document/10389702'
 url_pdf: 'https://arxiv.org/pdf/2309.12672.pdf'
 url_code: 'https://github.com/zengchang233/crosssinger'
 url_dataset: 'https://wenet-e2e.github.io/opencpop/'
