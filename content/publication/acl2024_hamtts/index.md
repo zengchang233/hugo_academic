@@ -67,9 +67,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- TTS
-- GenAI
-- LLM
+- genai
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -1,14 +1,14 @@
 ---
-title: Singing Voice Synthesis
-summary: Neural singing voice synthesis.
+title: Generative AI
+summary: Multi-Modality GenAI.
 tags:
-  - NSS
+  - MM GenAI
   - Deep Learning
   - Avatar
 date: '2022-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://wavelandspeech.github.io/'
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -18,7 +18,7 @@ links:
   - icon: music
     icon_pack: fas
     name: Visit
-    url: https://wavelandspeech.github.io/
+    url: https://zengchang233.github.io/project/svs/
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,4 +32,4 @@ url_video: ''
 slides: ""
 ---
 
-This project includes some speech and music related research of Xiaobing.ai. The research topics cover text to speech, singing voice synthesis, music generation, etc.
+The research topics cover text-to-audio (TTA), singing voice synthesis (SVS), music generation, and more multi-modality generative task in the future.
