@@ -44,8 +44,8 @@ featured: true
 
 links:
 - name: ArXiv
-  url: https://arxiv.org/abs/2403.05989v1
-url_pdf: https://arxiv.org/pdf/2403.05989v1.pdf
+  url: https://arxiv.org/abs/2403.05989
+url_pdf: https://arxiv.org/pdf/2403.05989.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
