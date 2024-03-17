@@ -40,11 +40,11 @@ summary: Probabilistic linear discriminant analysis (PLDA) or cosine similarity 
 tags: Speaker Recognition / Antispoofing
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: ICASSP Link
+- name: ICASSP
   url: https://ieeexplore.ieee.org/document/9746688
 
 url_pdf: 'https://arxiv.org/pdf/2104.01541.pdf'

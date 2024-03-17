@@ -15,23 +15,23 @@ publishDate: "2023-06-17T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *ArXiv*"
-publication_short: "In *ArXiv*"
+publication: "In *18th International Symposium on Neural Networks*"
+publication_short: "In *ISNN 2024*"
 
 abstract: Transformer-based models have recently made significant achievements in the application of end-to-end (E2E) automatic speech recognition (ASR). It is possible to deploy the E2E ASR system on smart devices with the help of Transformer-based models. While these models still have the disadvantage of requiring a large number of model parameters. To overcome the drawback of universal Transformer models for the application of ASR on edge devices, we propose a solution that can reuse the block in Transformer models for the occasion of the small footprint ASR system, which meets the objective of accommodating resource limitations without compromising recognition accuracy. Specifically, we design a novel block-reusing strategy for speech Transformer (BRST) to enhance the effectiveness of parameters and propose an adapter module (ADM) that can produce a compact and adaptable model with only a few additional trainable parameters accompanying each reusing block. We conducted an experiment with the proposed method on the public AISHELL-1 corpus, and the results show that the proposed approach achieves the character  error rate (CER) of 9.3\%/6.63\% with only 7.6M/8.3M parameters without and with the ADM, respectively. In addition, we also make a deeper analysis to show the effect of ADM in the general block-reusing method.
 
 # Summary. An optional shortened abstract.
-summary: Automatic Speech Recognition, Transformer, Block Reusing, Adaptor.
+summary: Recent advances in Transformer-based models have enhanced end-to-end automatic speech recognition (ASR), enabling deployment on smart devices. However, these models often require large numbers of parameters. To address this, we introduce a block-reusing strategy for speech Transformers (BRST) and an adapter module (ADM) for efficient parameter use in small footprint ASR systems, without sacrificing accuracy. Tested on the AISHELL-1 corpus, our method achieved low character error rates with significantly fewer parameters, demonstrating both efficiency and effectiveness, particularly with the inclusion of ADM.
 
 tags:
 - Automatic Speech Recognition
 featured: false
 
 links:
-- name: ArXiv Link
+- name: ArXiv
   url: https://arxiv.org/abs/2303.13072
 url_pdf: https://arxiv.org/pdf/2303.13072.pdf
 url_code: ''

@@ -35,7 +35,7 @@ tags:
 featured: true
 
 links:
-- name: 'ASRU2023 Link'
+- name: 'ASRU2023'
   url: 'https://ieeexplore.ieee.org/document/10389702'
 url_pdf: 'https://arxiv.org/pdf/2309.12672.pdf'
 url_code: 'https://github.com/zengchang233/crosssinger'

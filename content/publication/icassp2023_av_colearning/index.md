@@ -36,7 +36,7 @@ tags:
 featured: false
 
 links:
-- name: ICASSP Link
+- name: ICASSP
   url: https://ieeexplore.ieee.org/document/10095883
 url_pdf: https://arxiv.org/pdf/2302.11254.pdf
 url_code: ''
