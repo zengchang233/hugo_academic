@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Informatics
       institution: National Institute of Informatics & SOKENDAI
-      year: ''
+      year: 2024
     - course: MEng in Electrical Engineer and Information Systems (EEIS)
       institution: The University of Tokyo
       year: 2020
@@ -82,7 +82,7 @@ email: 'zengchang.elec@gmail.com'
 highlight_name: true
 ---
 
-I am a Ph.D. candidate with 5 years of speech signal processing/sequence-to-sequence (S2S)/deep learning experiences. I have explored speaker recognition in universities and speech recognition in the industry. My research/work interest includes speech/speaker recognition and generative speech AI such as TTS and voice conversion. 
+I am a Ph.D. candidate with 6 years of speech signal processing/sequence-to-sequence (S2S)/deep learning experiences. I have explored speaker recognition in universities and speech recognition in the industry. My research/work interest includes speech/speaker recognition and generative speech AI such as TTS and voice conversion. 
 <!-- I would like to dedicate myself to speech signal processing/speech AI/Machine Learning/Deep Learning field for my long-term future work. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

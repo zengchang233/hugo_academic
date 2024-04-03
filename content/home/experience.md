@@ -22,7 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Researcher
+  - title: Speech ML Researcher
+    company: RevComm Inc
+    company_url: 'https://www.revcomm.co.jp/'
+    company_logo: revcomm
+    location: Remote
+    date_start: '2024-04-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Speech signal processing
+        * Speech recognition
+        * Speech synthesis
+        * Generative AI
+
+  - title: Speech ML Researcher (Intern)
     company: RevComm Inc
     company_url: 'https://www.revcomm.co.jp/'
     company_logo: revcomm
@@ -37,7 +52,7 @@ experience:
         * Speech synthesis
         * Generative AI
 
-  - title: Avatar Researcher (intern)
+  - title: Avatar Researcher (Joint Project)
     company: Bombax XiaoIce Technology Co., Ltd
     company_url: 'https://www.xiaoice.com/'
     company_logo: xiaoice
@@ -81,7 +96,7 @@ experience:
         * Self-supervised learning
         * Spoken term detection
 
-  - title: Speech Recognition Researcher (intern)
+  - title: Speech Recognition Researcher (Intern)
     company: Alibaba
     company_url: 'https://www.alibaba.com/'
     company_logo: taobao
