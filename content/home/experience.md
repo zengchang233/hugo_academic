@@ -25,7 +25,7 @@ experience:
   - title: Speech ML Researcher
     company: RevComm Inc
     company_url: 'https://www.revcomm.co.jp/'
-    company_logo: revcomm
+    company_logo: RevComm
     location: Remote
     date_start: '2024-04-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Speech ML Researcher (Intern)
     company: RevComm Inc
     company_url: 'https://www.revcomm.co.jp/'
-    company_logo: revcomm
+    company_logo: RevComm
     location: Remote
     date_start: '2023-09-01'
     date_end: '2024-03-31'
